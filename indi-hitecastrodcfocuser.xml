@@ -1,0 +1,8 @@
+<devGroup group="FOCUSERs">
+        <device label="HitecAstroDCFocuser">
+                <driver name="FFMV">indi_hitecastrodcfocuser</driver>
+                <version>0.1</version>
+        </device>
+</devGroup>
+
+

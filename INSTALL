@@ -7,10 +7,11 @@ their instructions and additionally install libindi-dev packages.
 
 Then...
 
-1) git clone https://github.com/A-j-K/hitecastrodcfocuser.git
-2) mkdir -p ~/hitecastrodcfocuser/build
-3) cd ~/hitecastrodcfocuser/build
-4) cmake ..
-5) make
-6) sudo make install
+1) cd ~
+2) git clone https://github.com/A-j-K/hitecastrodcfocuser.git
+3) mkdir -p ~/hitecastrodcfocuser/build
+4) cd ~/hitecastrodcfocuser/build
+5) cmake ..
+6) make
+7) sudo make install
 

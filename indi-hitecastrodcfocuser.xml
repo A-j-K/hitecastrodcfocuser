@@ -1,6 +1,6 @@
 <devGroup group="FOCUSERs">
         <device label="HitecAstroDCFocuser">
-                <driver name="hitecatrsodcfocuser">indi_hitecastrodcfocuser</driver>
+                <driver name="hitecastrodcfocuser">indi_hitecastrodcfocuser</driver>
                 <version>0.1</version>
         </device>
 </devGroup>

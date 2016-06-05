@@ -3,12 +3,7 @@ HitecAstro DC Focuser INDI driver install
 Install your OS "build essentials" (gcc, binutils, etc).
 
 Ensure you have followed the instructions to install INDI library following 
-their instructions nd additionally add libindi-dev installation. Alternatively
-clone from Githun the INDI project and follow it's build instructions.
-
-https://github.com/indilib/indi
-
-If you cannot build INDI Core you won't be able to build this driver.
+their instructions and additionally install libindi-dev packages.
 
 Then...
 

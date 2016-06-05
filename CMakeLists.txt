@@ -17,7 +17,7 @@ SET(indi_hitecastrodcfocuser_SRCS
 
 ADD_EXECUTABLE(indi_hitecastrodcfocuser ${indi_hitecastrodcfocuser_SRCS})
 
-TARGET_LINK_LIBRARIES(indi_hitecastrodcfocuser ${INDI_DRIVER_LIBRARIES}
+TARGET_LINK_LIBRARIES(indi_hitecastrodcfocuser ${INDI_DRIVER_LIBRARIES})
 
 INSTALL(TARGETS indi_hitecastrodcfocuser RUNTIME DESTINATION bin )
 INSTALL(FILES indi-hitecastrodcfocuser.xml DESTINATION ${INDI_DATA_DIR})
